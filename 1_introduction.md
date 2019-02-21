@@ -1,11 +1,5 @@
 # Welcome
 
-Note: Hello and welcome!
-
-For those folks who signed up for this class a couple of weeks ago, I really apologize for needing to reschedule. 
-
-If I need to: My wife and I lost our dog unexpectedly that morning. If I had come in, we probably wouldn't have talked about websites. I would have been blubbering incoherently and showing you photos of a Yorkshire terrier instead of a slideshow.
-
 ---
 
 <!-- .slide: class="about-section" -->
@@ -28,13 +22,13 @@ If I need to: My wife and I lost our dog unexpectedly that morning. If I had com
 
 Note: The focus of a majority of my work is building websites that help organizations fulfill their missions...whether that is sharing art, supporting artists, providing information about classes, etc.
 
-I've been on both sides of equation: I have been inside an organization building a website, and the contractor helping build that website. **This has been a huge benefit to me; it has given me empathy for artists and arts organizations who are trying to build a site.
+I've been on both sides of equation: I have been inside an organization building a website, and the contractor helping build that website. This has been a huge benefit to me; it has given me empathy for artists and arts organizations who are trying to build a site.
 
 ---
 
 # Website basics
 
-<p class="fragment">View the presentation online at <a href="https://ryanaripley.com/website-basics/">ryanaripley.com/website-basics</a>.</p>
+<p class="fragment">View the presentation online at <a href="https://ryanaripley.com/website-basics/">ryanaripley.com/website-basics</a> or <a href="ripley-website-basics-presentation.pdf" target="_blank">download a PDF</a>.</p>
 
 Note: My presentation is  going to be geared toward individuals and organizations with a small budget that don't necessarily have $75k to spend on a new website. That is the audience that I feel gets missed. 
 

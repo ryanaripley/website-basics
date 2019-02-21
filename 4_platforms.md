@@ -61,9 +61,7 @@ There is an overwhelming number of content management systems available.
   </ul>
 </div>
 
-Note: 
-
-*Transition to next slide:* Wait, why is WordPress on both lists?
+Note: *Transition to next slide:* Wait, why is WordPress on both lists?
 
 ---
 
@@ -158,13 +156,11 @@ Templates: Avoid hacks and workarounds. Take the time to learn how a certain sof
   <li class="fragment">How is the website maintained long term?</li>
 </ul>
 
-Note: Agencies are more expensive. Independent contractors are more risky.
-
-Sign a contract, or at least a project scope document.
-
-Spec work: you don't ask a plumber to fix your leaky kitchen sink before hiring them to renovate the master bathroom.
-
-Communication: Assign a single point of contact from your organization. Consolidate notes into a single email. Use a project manager if possible.
+Note: 
+- Agencies are more expensive. Independent contractors are more risky.
+- Sign a contract, or at least a project scope document.
+- Spec work: you don't ask a plumber to fix your leaky kitchen sink before hiring them to renovate the master bathroom.
+- Communication: Assign a single point of contact from your organization. Consolidate notes into a single email. Use a project manager if possible.
 
 ---
 
@@ -181,4 +177,4 @@ Note: I've walked into organizations to start talking about a website redesign, 
 
 I've also walked into organizations where the staff are clearly experts in the website. They know the pain points, they know what needs to happen.
 
-Can you give staff 4 hours a week to learn something? That's a huge benefit. 
+Can you give staff 4 hours a week to learn something new? That's a huge benefit. 
